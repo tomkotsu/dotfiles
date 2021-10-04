@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tombinnie@protonmail.com
+	name = Tom Binnie
